@@ -1,3 +1,5 @@
+#Project allows to see statistics of bike sharing in 3 major US cities
+
 import time
 import pandas as pd
 import numpy as np
