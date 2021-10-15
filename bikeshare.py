@@ -195,7 +195,7 @@ def raw_data(df):
             print(df.iloc[i:i+5])
             i = i+5
 
-
+# Function combines all previous created functions
 def main():
     while True:
         city, month, day = get_filters()
